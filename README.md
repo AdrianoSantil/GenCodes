@@ -1,2 +1,2 @@
 # GenCodes
-Códigos gerais utilizados para automatização de atividades e cálculos de forecast.
+Códigos gerais utilizados para automatização de processos no Microsoft Office.
